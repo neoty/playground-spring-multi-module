@@ -1,0 +1,4 @@
+rootProject.name = 'playground-spring-multi-module'
+include 'src:common'
+include 'src:api'
+include 'src:web'
